@@ -1,0 +1,12 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"3d printed housing","house everything",,0.00,"https://github.com/Randomcoder323/Plant-sensor/tree/main/CAD","Me, I will print it"
+"PCB","to connect all the components",1,5.12,"https://Jlcpcb.com","JLCPCB"
+"Resistor","protect LED",3,1.26,"https://a.aliexpress.com/_mspxUWj","Aliexpress"
+"RGB LED","Shows soil moisture level with color",1,1.74,"https://a.aliexpress.com/_mMpHEnz","Aliexpress"
+"Slide switch","Turns the device on and off",1,1.34,"https://a.aliexpress.com/_mqfuCDh","aliexpress"
+"CR2032 battery","Powers the device and holds battery",1,2.56,"https://a.aliexpress.com/_ms2Ysex","Aliexpress"
+"10k resistor"," reset pin pullup",1,1.15,"https://a.aliexpress.com/_mspxUWj","Aliexpress"
+"Dupont wires","Connects USBasp to chip on breadboard",6,1.65,"https://a.aliexpress.com/_msWIxZV","Aliexpress"
+"100nF capacitor","Keeps power stable",1,1.46,"https://a.aliexpress.com/_mMuyiN1","Aliexpress"
+"USBasp","Programs the chip",1,2.51,"https://a.aliexpress.com/_mNWj4H1","AliExpress"
+"ATtiny85","Main chip",1,3.74,"https://a.aliexpress.com/_mOnoRWf","Aliexpress"
