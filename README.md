@@ -29,5 +29,5 @@ I made this to improve my pcb makign skills and because I actully looks forward 
 | Dupont wires (F-M) | Connects USBasp to chip on breadboard | 6 | $1.65 | [Aliexpress](https://a.aliexpress.com/_msWIxZV) |
 | 3D printed housing | Houses everything | 1 | — | [Files](https://github.com/Randomcoder323/Plant-sensor/tree/main/CAD) (self print) |
 
-**Total: ~$22.53**
-
+*tax=$1.5*
+**Total: ~$24.03**
