@@ -1,5 +1,12 @@
 # Plant-sensor
 
+<img width="3000" height="3000" alt="1000024612" src="https://github.com/user-attachments/assets/c5771394-6e1e-4284-aea9-295414effe47" />
+<img width="3000" height="3000" alt="1000024613" src="https://github.com/user-attachments/assets/d63528af-3df2-4b53-9701-490fcdef87db" />
+<img width="3000" height="3000" alt="1000024614" src="https://github.com/user-attachments/assets/ffa459a1-5fc9-48fa-9772-c16a682bc0fb" />
+<img width="3000" height="3000" alt="1000024621" src="https://github.com/user-attachments/assets/9b9e3fad-b996-4353-ac74-d5520c1cd50f" />
+<img width="3000" height="3000" alt="1000024619" src="https://github.com/user-attachments/assets/1ba67cc2-8987-4762-9fb9-137cd455d6bc" />
+
+
 ## What
 This a plant moisture sensor that turns red as the soil become dryer and green when watered. It using an ATtiny85 along with a cr2032 battery and a moisure sensor the work. The LED is rgb and looks really cool.
 ## Why
