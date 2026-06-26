@@ -1,7 +1,10 @@
 # Plant-sensor
+
 # build
 this project took a lot and lots of troubleshooting especially on the firmware side, but I also learned alot about another type of an mcu, this one had no sub port.
+
 # Video (https://youtube.com/shorts/tgqQFa1ksJw?is=6ZbkBO98ogRMJPao)
+
 <img width="3000" height="3000" alt="1000024612" src="https://github.com/user-attachments/assets/c5771394-6e1e-4284-aea9-295414effe47" />
 <img width="3000" height="3000" alt="1000024613" src="https://github.com/user-attachments/assets/d63528af-3df2-4b53-9701-490fcdef87db" />
 <img width="3000" height="3000" alt="1000024614" src="https://github.com/user-attachments/assets/ffa459a1-5fc9-48fa-9772-c16a682bc0fb" />
